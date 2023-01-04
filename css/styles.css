@@ -1,0 +1,131 @@
+#title{
+    background-color: rgb(250, 49, 82);
+}
+
+.nav-item{
+    color: black;
+    font-size: 1.5em;
+}
+
+
+
+
+.navbar-brand{
+    color: white;
+    font-size:2.8em;
+    font-weight: bolder;
+    font-family: 'Ubuntu';
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+h1{
+    font-weight: bolder;
+    font-family: 'Montserrat';
+    line-height: 1.2;
+    color: white;
+}
+
+#iphone{
+    transform: rotate(20deg);
+}
+
+.icon{
+    color: #ef8172;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+h3{
+    line-height: .8;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.text{
+    padding: 0% 15%;
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(109, 108, 108);
+}
+
+#features{
+    padding: 7% 10%;
+}
+
+
+/* testimonal */
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    
+}
+
+.carousel-inner{
+    padding: 4% 15%;
+
+}
+
+h2{
+    line-height: 2;
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    color: #fff;
+}
+
+.testimonial-img{
+   width: 15%;
+   border-radius: 100%;
+   margin: 2%;
+}
+
+.testimonial-author{
+    color: white;
+}
+
+
+
+/* press */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 0% 15% 5%;
+}
+
+.press-img{
+    height: 25%;
+    width: 20%;
+    padding: 0% 3% 3%;
+    
+}
+
+/* pricing */
+
+#pricing{
+    margin: 4% 15% ;
+}
+.plan-head{
+    color: black;
+    text-align: center;
+}
+.cards-row{
+     margin: 3% 7%; 
+}
+
+.cost{
+    color: black;
+}
+
+.card{
+    text-align: center;
+}
+
+
